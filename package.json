@@ -1,0 +1,42 @@
+{
+  "name": "FunWithNodeTS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-debug": "^2.1.2",
+    "gulp-jasmine": "^2.3.0",
+    "del": "^2.2.0",
+    "gulp-tslint": "^4.3.3",
+    "gulp-typescript": "^2.12.1",
+    "jasmine-core": "^2.4.1",
+    "require-dir": "^0.3.0",
+    "tslint": "^3.6.0",
+    "karma": "^0.13.22",
+    "typescript": "^1.8.7"
+  },
+  "devDependencies": {
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-jasmine": "^2.3.0",
+    "gulp-typescript": "^2.12.1",
+    "require-dir": "^0.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmisztal1980/FunWithNodeTS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmisztal1980/FunWithNodeTS/issues"
+  },
+  "homepage": "https://github.com/mmisztal1980/FunWithNodeTS"
+}
