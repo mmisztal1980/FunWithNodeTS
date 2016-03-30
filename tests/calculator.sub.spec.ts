@@ -1,4 +1,4 @@
-/// <reference path="../typings/jasmine.d.ts" />
+/// <reference path="../typings/main/ambient/jasmine/index.d.ts" />
 /// <reference path="../app/modules/Calculator.ts"/>
 
 'use strict';
