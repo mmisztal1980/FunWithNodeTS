@@ -1,7 +1,7 @@
 var gulp = require('gulp');
 var ts = require('gulp-typescript');
 
-gulp.task('build', ['build:js'], function(){
+gulp.task('build', ['build:js', 'build:tests'], function(){
     
 });
 
